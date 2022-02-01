@@ -1,6 +1,6 @@
-KABOOK RADIUS 
+KABOOK AGI RADIUS
 
-Asterisk PBX RADIUS Connector
+Asterisk AGI to RADIUS Connector
 
 Please feel free to contact me on barbodar@gmail.com or telegram ID @alisoltanifar
 
